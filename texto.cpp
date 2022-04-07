@@ -11,6 +11,7 @@ int main(int argc, char *argv[])
 {
 	
 	
+	
 	// Make a window and an off-screen backdrop.
 	screen = tigrWindow(320, 200, "GUI", 0);
 	backdrop = tigrBitmap(screen->w, screen->h);
